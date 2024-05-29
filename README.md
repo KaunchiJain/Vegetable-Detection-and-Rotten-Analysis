@@ -20,3 +20,4 @@ Instructions:
 4) Integrate the scripts and MATLAB file with your frontend and backend codebases.
 5) Utilize the solution to analyze images, detect fruits, vegetables, and rotten parts, and provide a user-friendly interface through a web application.
 
+Download the dataset from here: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
